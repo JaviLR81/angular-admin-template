@@ -19,6 +19,7 @@ import { SidebarComponent } from './shared/sidebar/sidebar.component';
     BrowserModule,
     AppRoutingModule,
     NgbModule,
+    PagesModule
   ],
   providers: [],
   bootstrap: [AppComponent]
